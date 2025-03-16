@@ -8,12 +8,6 @@
 
 <br>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=888krishnam&theme=darkhub&w=15&margin-w=15" alt="Trophy" />
-</p>
-
-<br>
-
 # 🛠️ Languages & Tools:
 
 <br>
